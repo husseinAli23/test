@@ -11,7 +11,7 @@ class MainActivity : AppCompatActivity() {
 
 
         // test 1
-        //2332
+        //2332 bbty   bhjb n10 bnb
         // test 2
     }
 }
